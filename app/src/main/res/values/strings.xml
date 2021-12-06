@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Homework_3</string>
+    <string name="hi">Hi!!!</string>
+    <string name="click"><![CDATA[Click->]]></string>
+</resources>
